@@ -1,7 +1,5 @@
 package BackJun.string;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class 단어공부_1157 {
@@ -28,6 +26,7 @@ public class 단어공부_1157 {
 				answer = '?';
 		}
 		System.out.println(answer);
+		scan.close();
 	}
 
 }
